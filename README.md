@@ -1,6 +1,8 @@
 # MPMB-EFotA-Eberron-Forge-of-the-Artificer
 This script adds the Artificer, its subclasses, the Dragonmark Feats, and the Species options from the 2024 "Eberron: Forge of the Artificer" book. There are 2 versions here, one for V13 of the MPMB sheet, which is intended to be used in conjunction with Poke's 2024 PHB &amp; DMG scripts, &amp; one for V14+ of the MPMB sheet.
 
+**THIS WILL BE A WIP SCRIPT UNTIL AFTER BOOK ITSELF RELEASES**
+
 **The "S13 V#" script is to be used in conjunction with the 5.24E scripts by ThePokésimmer. It will not work properly without those installed first. You can find those scripts here: https://github.com/thepokesimmer/2024-PHB/tree/main. The "S14+ V#" script is intended for use with MPMB sheets of version 14+ and do not need the 5.24E scripts by ThePokésimmer.**
 
 **Script Credit Note:**
@@ -13,7 +15,7 @@ This script will allow users to play the revised Artificer & Eberron content. It
 
 **Script Patch Notes:**
 - **2025-11-21:**
-  - Initial upload of script (S13 V0.5).
+  - Initial upload of scripts (S13 V0.5 & S14+ V0.5).
 
 **Known Bugs:**
 - Will alter once bugs are found.
